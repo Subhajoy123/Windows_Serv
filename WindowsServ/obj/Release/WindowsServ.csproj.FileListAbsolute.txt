@@ -1,0 +1,10 @@
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\WindowsServ.exe.config
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\WindowsServ.exe
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\WindowsServ.pdb
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\obj\Release\WindowsServ.csproj.AssemblyReference.cache
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\obj\Release\WindowsServ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\obj\Release\WindowsServ.csproj.CoreCompileInputs.cache
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\obj\Release\WindowsServ.exe
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\obj\Release\WindowsServ.pdb
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\obj\Release\WindowsServ.ProjectInstaller.resources
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\obj\Release\WindowsServ.csproj.GenerateResource.cache

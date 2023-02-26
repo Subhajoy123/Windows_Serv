@@ -1,0 +1,8 @@
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Debug\WindowsServ.exe.config
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Debug\WindowsServ.exe
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Debug\WindowsServ.pdb
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\obj\Debug\WindowsServ.csproj.AssemblyReference.cache
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\obj\Debug\WindowsServ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\obj\Debug\WindowsServ.csproj.CoreCompileInputs.cache
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\obj\Debug\WindowsServ.exe
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\obj\Debug\WindowsServ.pdb

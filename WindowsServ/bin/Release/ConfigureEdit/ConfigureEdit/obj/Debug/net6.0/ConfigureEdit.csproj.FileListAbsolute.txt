@@ -1,0 +1,15 @@
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\obj\Debug\net6.0\ConfigureEdit.csproj.AssemblyReference.cache
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\obj\Debug\net6.0\ConfigureEdit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\obj\Debug\net6.0\ConfigureEdit.AssemblyInfoInputs.cache
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\obj\Debug\net6.0\ConfigureEdit.AssemblyInfo.cs
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\obj\Debug\net6.0\ConfigureEdit.csproj.CoreCompileInputs.cache
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\bin\Debug\net6.0\ConfigureEdit.exe
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\bin\Debug\net6.0\ConfigureEdit.deps.json
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\bin\Debug\net6.0\ConfigureEdit.runtimeconfig.json
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\bin\Debug\net6.0\ConfigureEdit.dll
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\bin\Debug\net6.0\ConfigureEdit.pdb
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\obj\Debug\net6.0\ConfigureEdit.dll
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\obj\Debug\net6.0\refint\ConfigureEdit.dll
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\obj\Debug\net6.0\ConfigureEdit.pdb
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\obj\Debug\net6.0\ConfigureEdit.genruntimeconfig.cache
+C:\Users\Subhajoy Mahanta\Desktop\WindowsServ\WindowsServ\bin\Release\ConfigureEdit\ConfigureEdit\obj\Debug\net6.0\ref\ConfigureEdit.dll
